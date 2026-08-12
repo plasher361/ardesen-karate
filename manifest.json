@@ -11,28 +11,32 @@
   "theme_color": "#0E2648",
   "lang": "tr",
   "dir": "ltr",
-  "categories": ["sports", "productivity", "utilities"],
+  "categories": [
+    "sports",
+    "productivity",
+    "utilities"
+  ],
   "icons": [
     {
-      "src": "icons/icon-192.png",
+      "src": "icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "icons/icon-512.png",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "icons/maskable-192.png",
+      "src": "maskable-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "icons/maskable-512.png",
+      "src": "maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
@@ -44,14 +48,24 @@
       "short_name": "Yoklama",
       "description": "Bugünün antrenman yoklamasını gir",
       "url": "./index.html#yoklama",
-      "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }]
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
     },
     {
       "name": "Aidat gir",
       "short_name": "Aidat",
       "description": "Bu ayın aidat ödemelerini işaretle",
       "url": "./index.html#aidat",
-      "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }]
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
     }
   ]
 }
